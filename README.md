@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MathewLiam
+I'm an ASP.NET C# Backend developer, with some frontend knowledge such as React and SCSS. I wish to expand on this knowledge and continually improve my ability as a developer.
+- 👀 I’m interested in ...
+My main interests as a developer is web application development.
+- 🌱 I’m currently learning ...
+Mobile development and frontend web development, whilst expanding on current backend web development.
